@@ -6,6 +6,6 @@
 - ⚡ Fun fact: Be Happy.
 
 <!---
-kiranpawar1763/kiranpawar1763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kiran pawar/kiran pawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
